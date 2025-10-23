@@ -1,0 +1,151 @@
+id_venda;produto;categoria;tamanho;cor;loja;vendedor;quantidade;valor_unitario;desconto_percentual
+1;Boné;Masculino;GG;Verde;Zona Sul;Fernanda;14;416.56;26
+2;Jaqueta;Infantil;PP;Vermelho;Zona Norte;Bruno;13;349.34;28
+3;Sapato;Infantil;G;Preto;Zona Sul;Carlos;9;285.38;7
+4;Jaqueta;Masculino;PP;Amarelo;Zona Sul;Eduardo;15;211.47;21
+5;Jaqueta;Infantil;G;Amarelo;Centro;Eduardo;15;444.74;24
+6;Calça;Infantil;PP;Verde;Centro;Ana;11;226.6;14
+7;Sapato;Masculino;GG;Branco;Centro;Fernanda;16;417.47;4
+8;Sapato;Masculino;G;Branco;Zona Sul;Ana;17;247.61;2
+9;Sapato;Infantil;M;Amarelo;Zona Norte;Bruno;4;219.62;18
+10;Jaqueta;Infantil;PP;Verde;Online;Ana;1;258.21;0
+11;Boné;Infantil;PP;Vermelho;Online;Carlos;8;185.62;27
+12;Sapato;Feminino;G;Branco;Centro;Eduardo;17;386.42;14
+13;Vestido;Feminino;M;Vermelho;Centro;Bruno;3;276.22;7
+14;Jaqueta;Feminino;M;Branco;Zona Sul;Ana;15;154.5;1
+15;Calça;Masculino;GG;Branco;Online;Fernanda;15;454.81;2
+16;Boné;Feminino;M;Azul;Centro;Carlos;14;222.75;23
+17;Vestido;Masculino;M;Branco;Zona Norte;Carlos;14;294.6;13
+18;Vestido;Masculino;M;Preto;Zona Norte;Ana;2;457.91;23
+19;Calça;Feminino;P;Verde;Centro;Eduardo;13;330.91;13
+20;Boné;Feminino;GG;Verde;Centro;Ana;14;102.6;10
+21;Jaqueta;Feminino;PP;Vermelho;Online;Bruno;19;472.92;15
+22;Camisa;Infantil;G;Branco;Online;Ana;7;332.47;3
+23;Boné;Feminino;PP;Preto;Zona Sul;Carlos;3;200.71;19
+24;Calça;Infantil;GG;Vermelho;Online;Ana;15;112.67;4
+25;Vestido;Masculino;G;Azul;Zona Norte;Eduardo;14;407.31;21
+26;Jaqueta;Infantil;GG;Vermelho;Zona Norte;Fernanda;11;329.03;20
+27;Boné;Feminino;M;Vermelho;Centro;Daniela;15;290.06;13
+28;Camisa;Masculino;G;Branco;Online;Ana;13;452.25;22
+29;Camisa;Masculino;M;Azul;Zona Sul;Eduardo;18;404.87;15
+30;Sapato;Masculino;PP;Vermelho;Zona Norte;Eduardo;6;118.25;17
+31;Sapato;Infantil;PP;Preto;Zona Norte;Fernanda;3;190.27;6
+32;Calça;Feminino;G;Preto;Zona Sul;Carlos;19;161.82;9
+33;Boné;Masculino;G;Verde;Zona Sul;Eduardo;15;384.78;6
+34;Boné;Masculino;GG;Azul;Zona Norte;Eduardo;5;65.09;0
+35;Vestido;Masculino;GG;Azul;Zona Norte;Eduardo;10;306.45;22
+36;Vestido;Infantil;M;Verde;Zona Sul;Eduardo;7;393.11;20
+37;Vestido;Infantil;G;Vermelho;Zona Norte;Bruno;17;444.54;18
+38;Sapato;Feminino;PP;Azul;Centro;Bruno;7;203.94;15
+39;Boné;Infantil;GG;Preto;Centro;Carlos;12;419.57;28
+40;Boné;Masculino;GG;Preto;Zona Sul;Ana;17;99.78;18
+41;Camisa;Feminino;PP;Branco;Online;Eduardo;13;430.9;3
+42;Sapato;Masculino;GG;Azul;Zona Sul;Fernanda;4;107.37;28
+43;Jaqueta;Masculino;M;Vermelho;Zona Sul;Ana;10;228.78;27
+44;Sapato;Infantil;G;Verde;Online;Fernanda;3;408.78;17
+45;Jaqueta;Feminino;PP;Verde;Online;Ana;9;117.46;1
+46;Camisa;Infantil;G;Vermelho;Online;Carlos;13;153.16;0
+47;Calça;Infantil;GG;Amarelo;Centro;Eduardo;18;375.01;14
+48;Boné;Feminino;GG;Branco;Zona Norte;Eduardo;15;374.02;4
+49;Camisa;Masculino;PP;Verde;Centro;Daniela;4;338.52;19
+50;Boné;Masculino;M;Azul;Zona Norte;Fernanda;15;362.28;10
+51;Vestido;Feminino;P;Branco;Centro;Ana;2;294.23;9
+52;Calça;Masculino;PP;Azul;Zona Norte;Ana;15;163.31;1
+53;Calça;Feminino;P;Preto;Centro;Bruno;8;205.56;2
+54;Camisa;Feminino;P;Branco;Online;Daniela;8;131.72;22
+55;Calça;Infantil;M;Verde;Zona Sul;Bruno;17;458.8;22
+56;Jaqueta;Feminino;P;Branco;Centro;Bruno;12;312.53;11
+57;Calça;Infantil;P;Branco;Zona Norte;Bruno;19;230.38;19
+58;Boné;Masculino;M;Branco;Online;Fernanda;10;257.9;4
+59;Boné;Masculino;P;Amarelo;Centro;Fernanda;9;476.28;4
+60;Boné;Masculino;P;Branco;Centro;Carlos;5;119.01;5
+61;Boné;Masculino;P;Azul;Online;Carlos;6;313.8;29
+62;Jaqueta;Infantil;PP;Preto;Centro;Bruno;2;277.65;8
+63;Sapato;Masculino;PP;Vermelho;Zona Sul;Daniela;13;325.15;1
+64;Vestido;Feminino;PP;Branco;Centro;Ana;6;58.15;20
+65;Camisa;Feminino;M;Verde;Zona Sul;Fernanda;5;442.46;11
+66;Boné;Feminino;GG;Branco;Zona Sul;Daniela;1;469.45;2
+67;Calça;Infantil;P;Verde;Online;Eduardo;6;304.31;19
+68;Boné;Masculino;P;Azul;Centro;Fernanda;6;363.49;25
+69;Calça;Masculino;M;Verde;Online;Fernanda;16;465.12;21
+70;Vestido;Masculino;P;Vermelho;Centro;Carlos;4;368.26;11
+71;Vestido;Infantil;PP;Preto;Centro;Ana;11;118.64;23
+72;Vestido;Feminino;GG;Verde;Zona Norte;Ana;9;309.33;16
+73;Calça;Feminino;G;Verde;Centro;Eduardo;3;323.02;9
+74;Boné;Masculino;P;Preto;Online;Eduardo;19;240.86;29
+75;Vestido;Feminino;PP;Vermelho;Zona Sul;Fernanda;8;381.4;23
+76;Jaqueta;Feminino;G;Branco;Centro;Bruno;5;470.47;26
+77;Calça;Infantil;GG;Verde;Zona Norte;Carlos;4;466.51;13
+78;Calça;Infantil;G;Preto;Online;Carlos;6;252.88;22
+79;Boné;Infantil;PP;Azul;Centro;Fernanda;2;100.96;16
+80;Calça;Infantil;G;Preto;Online;Daniela;11;493.18;17
+81;Calça;Masculino;M;Azul;Zona Norte;Bruno;4;427.5;18
+82;Vestido;Infantil;G;Vermelho;Zona Norte;Fernanda;15;106.1;16
+83;Boné;Feminino;P;Branco;Online;Bruno;6;464.38;13
+84;Vestido;Masculino;P;Preto;Centro;Bruno;17;441.45;8
+85;Vestido;Feminino;M;Amarelo;Zona Sul;Bruno;6;283.48;7
+86;Boné;Feminino;PP;Verde;Zona Norte;Fernanda;19;316.07;1
+87;Camisa;Feminino;P;Vermelho;Centro;Carlos;2;229.55;12
+88;Vestido;Infantil;GG;Preto;Centro;Carlos;15;74.64;24
+89;Jaqueta;Infantil;P;Verde;Zona Sul;Bruno;11;200.84;6
+90;Jaqueta;Masculino;P;Preto;Zona Norte;Daniela;8;411.28;8
+91;Calça;Masculino;PP;Azul;Zona Norte;Ana;19;52.08;21
+92;Jaqueta;Infantil;G;Preto;Centro;Fernanda;13;200.07;21
+93;Calça;Feminino;P;Amarelo;Centro;Ana;12;229.18;10
+94;Camisa;Masculino;M;Preto;Zona Sul;Daniela;5;291.83;13
+95;Boné;Infantil;G;Preto;Zona Sul;Fernanda;6;463.94;3
+96;Boné;Infantil;GG;Amarelo;Zona Norte;Bruno;4;205.86;25
+97;Boné;Infantil;PP;Vermelho;Online;Carlos;19;206.13;25
+98;Jaqueta;Feminino;GG;Preto;Zona Norte;Ana;1;381.88;28
+99;Camisa;Infantil;G;Amarelo;Centro;Eduardo;17;253.5;12
+100;Jaqueta;Infantil;G;Verde;Zona Norte;Eduardo;12;151.07;1
+101;Jaqueta;Infantil;G;Azul;Online;Daniela;15;253.6;22
+102;Camisa;Infantil;GG;Azul;Zona Sul;Bruno;1;113.39;4
+103;Camisa;Masculino;G;Preto;Online;Ana;14;129.37;10
+104;Camisa;Masculino;GG;Vermelho;Online;Bruno;6;274.27;5
+105;Camisa;Infantil;G;Vermelho;Online;Ana;5;238.52;17
+106;Boné;Feminino;M;Verde;Zona Sul;Daniela;11;461.68;20
+107;Sapato;Masculino;G;Preto;Online;Daniela;4;213.08;9
+108;Sapato;Infantil;GG;Azul;Online;Eduardo;13;311.26;3
+109;Camisa;Masculino;P;Vermelho;Online;Bruno;11;334.52;8
+110;Sapato;Masculino;G;Preto;Centro;Fernanda;3;55.89;5
+111;Sapato;Feminino;P;Vermelho;Online;Eduardo;1;348.59;1
+112;Camisa;Infantil;M;Amarelo;Zona Sul;Bruno;6;130.12;16
+113;Sapato;Infantil;PP;Vermelho;Online;Eduardo;18;482.48;4
+114;Jaqueta;Feminino;M;Azul;Online;Fernanda;10;116.9;24
+115;Calça;Feminino;G;Branco;Zona Sul;Carlos;5;236.58;5
+116;Calça;Infantil;P;Verde;Online;Carlos;10;88.41;25
+117;Camisa;Infantil;P;Verde;Zona Sul;Carlos;12;498.59;11
+118;Boné;Feminino;GG;Azul;Online;Carlos;2;275.99;22
+119;Camisa;Masculino;P;Vermelho;Zona Sul;Ana;13;317.92;20
+120;Boné;Masculino;GG;Preto;Online;Carlos;8;80.18;9
+121;Calça;Feminino;PP;Vermelho;Online;Fernanda;2;387.48;21
+122;Camisa;Masculino;G;Azul;Centro;Daniela;1;144.46;20
+123;Vestido;Feminino;GG;Verde;Centro;Daniela;5;454.12;26
+124;Jaqueta;Masculino;PP;Vermelho;Online;Ana;9;142.31;24
+125;Sapato;Masculino;P;Verde;Online;Carlos;17;135.81;5
+126;Boné;Infantil;P;Preto;Zona Norte;Carlos;9;66.45;26
+127;Vestido;Infantil;PP;Verde;Zona Sul;Carlos;11;262.43;7
+128;Sapato;Masculino;P;Verde;Zona Norte;Eduardo;15;304.18;1
+129;Sapato;Masculino;PP;Branco;Centro;Bruno;6;79.57;11
+130;Camisa;Infantil;GG;Branco;Centro;Eduardo;3;398.99;12
+131;Sapato;Infantil;GG;Amarelo;Centro;Bruno;17;253.98;24
+132;Jaqueta;Infantil;PP;Branco;Centro;Carlos;5;285.98;20
+133;Vestido;Feminino;GG;Verde;Online;Carlos;12;248.34;6
+134;Sapato;Masculino;GG;Azul;Centro;Eduardo;18;230.34;9
+135;Camisa;Infantil;GG;Verde;Online;Eduardo;14;301.84;12
+136;Jaqueta;Masculino;M;Azul;Online;Bruno;11;119.86;16
+137;Calça;Feminino;G;Azul;Centro;Daniela;9;131.87;25
+138;Vestido;Feminino;P;Branco;Centro;Bruno;2;437.8;20
+139;Sapato;Infantil;M;Vermelho;Zona Sul;Eduardo;12;475.75;27
+140;Camisa;Feminino;GG;Preto;Zona Norte;Fernanda;3;217.99;29
+141;Calça;Masculino;PP;Branco;Centro;Eduardo;3;171.84;25
+142;Calça;Infantil;GG;Branco;Zona Sul;Fernanda;1;339.8;13
+143;Boné;Masculino;G;Vermelho;Zona Sul;Ana;8;233.93;1
+144;Jaqueta;Masculino;GG;Preto;Zona Norte;Eduardo;8;61.42;27
+145;Sapato;Feminino;PP;Verde;Online;Ana;11;120.27;21
+146;Camisa;Feminino;G;Amarelo;Centro;Daniela;9;372.19;10
+147;Boné;Feminino;GG;Amarelo;Zona Norte;Bruno;5;346.52;0
+148;Jaqueta;Feminino;G;Verde;Centro;Fernanda;14;62.19;18
+149;Boné;Feminino;P;Branco;Zona Sul;Bruno;3;149.89;20
+150;Vestido;Infantil;P;Preto;Zona Sul;Ana;5;153.98;3
